@@ -84,7 +84,6 @@ const Recipes = {
   }
 };
 
-
 function createRecipes() {
   const storage = Object.create(Recipes);
   storage.items = {};
